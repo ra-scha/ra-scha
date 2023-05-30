@@ -6,7 +6,7 @@ I'm passionate about executing compelling data projects to drive actionable insi
 
 Skills: Python / SQL / Power BI / Excel
 
-- 🔭 I’m currently working on various client projects 
+- 🔭 I’m currently working on raphaelschagerl.com | rasc.ai | singularityensues.com
 - 👯 I’m looking to collaborate on interesting data projects 
 - 📫 How to reach me: I'm happy to connect via Twitter and LinkedIn 
 
