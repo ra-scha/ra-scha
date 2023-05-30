@@ -1,17 +1,29 @@
-### Hi there 👋, Raphael here!
-#### I'm a freelance data & BI analyst
 ![I'm a freelance data & BI analyst](https://github.com/ra-scha/ra-scha/blob/main/GitHubBanner.png)
 
-I'm passionate about executing compelling data projects to drive actionable insights and business success.
+---
 
-Skills: Python / SQL / Power BI / Excel
-
-- 🔭 I’m currently working on [raphaelschagerl.com](https://raphaelschagerl.com) | [rasc.ai](https://rasc.ai) | [singularityensues.com](https://singularityensues.com)
-- 👯 I’m looking to collaborate on interesting data projects 
-- 📫 How to reach me: I'm happy to connect via Twitter and LinkedIn 
+### Hi there 👋, Raphael here!
+#### I'm a freelance data & BI analyst with a passion for executing compelling data projects to drive actionable insights and business success.  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ra-scha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raphaelschagerl/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/raphaelschagerl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://raphaelschagerl.com)  
+- 🔭 Besides various client projects, I’m currently working on my
+    - freelancing website [raphaelschagerl.com](https://raphaelschagerl.com)
+    - data analytics business website [rasc.ai](https://rasc.ai)
+    - AI newsletter [singularityensues.com](https://singularityensues.com)
+
+- 👯 I’m always open to collaborate on interesting data projects.  
+
+- 📫 Feel free to reach out to me via  [<img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' alt='twitter' height='20'>](https://twitter.com/raphaelschagerl) and [<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'     alt='linkedin' height='20'>](https://www.linkedin.com/in/raphaelschagerl/) . I'm always happy to connect.  
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
+
+<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' height='40'>     <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' alt='postgresql' height='40'>    <img src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg' alt='powerbi' height='40'>    <img src='https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg' alt='excel' height='40'>
+
+---
+
+#### :fire: GitHub Stats:
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ra-scha)  
 
