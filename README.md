@@ -19,7 +19,7 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' height='40'>     <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' alt='postgresql' height='40'>    <img src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg' alt='powerbi' height='40'>    <img src='https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg' alt='excel' height='40'>
+<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python' height='40'>     <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' alt='postgresql' height='40'>    <img src='https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg' alt='powerbi' height='40'>    <img src='https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg' alt='excel' height='40'>     <img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg' alt='Jupyter' height='40'>
 
 ---
 
