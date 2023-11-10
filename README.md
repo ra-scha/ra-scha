@@ -8,7 +8,7 @@
 
 - 🔭 Besides various client projects, I’m currently working on my
     - freelancing website [raphaelschagerl.com](https://raphaelschagerl.com)
-    - data analytics business website [rasc.ai](https://rasc.ai)
+    - data analytics business website [datastacked.co](https://datastacked.co)
     - AI newsletter [singularityensues.com](https://singularityensues.com)
 
 - 👯 I’m always open to collaborate on interesting data projects.  
