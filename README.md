@@ -13,7 +13,7 @@
 
 - 👯 I’m always open to collaborate on interesting data projects.  
 
-- 📫 Feel free to reach out to me via  [<img src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg' alt='twitter' height='20'>](https://twitter.com/raphaelschagerl) and [<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'     alt='linkedin' height='20'>](https://www.linkedin.com/in/raphaelschagerl/) . I'm always happy to connect.  
+- 📫 Feel free to reach out to me via [<img src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'     alt='linkedin' height='20'>](https://www.linkedin.com/in/raphaelschagerl/) . I'm always happy to connect.  
 
 ---
 
