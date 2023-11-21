@@ -1,4 +1,4 @@
-![I'm a freelance data & BI analyst](https://github.com/ra-scha/ra-scha/blob/main/GitHubBanner.png)
+![I'm a freelance data & BI analyst](https://github.com/ra-scha/ra-scha/blob/main/Banner.png)
 
 ---
 
