@@ -27,7 +27,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ra-scha)  
 
-![Profile views](https://gpvc.arturio.dev/ra-scha)  
+![](https://komarev.com/ghpvc/?username=ra-scha)  
 
 <!--
 **ra-scha/ra-scha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
